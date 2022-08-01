@@ -3,6 +3,7 @@ package ch03.home.ex09;
 import java.util.Scanner;
 
 public class Grade {
+	@SuppressWarnings("resource")
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 		int kor, eng, math, sum;

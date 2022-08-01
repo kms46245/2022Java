@@ -3,6 +3,7 @@ package ch06.ex02.case01.sub;
 import ch06.ex02.case01.A;
 
 public class C extends A{
+	@SuppressWarnings("unused")
 	public void test() {
 		int x = 0;
 		

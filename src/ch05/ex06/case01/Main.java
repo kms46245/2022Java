@@ -1,6 +1,7 @@
 package ch05.ex06.case01;
 
 public class Main {
+	@SuppressWarnings("static-access")
 	public static void main(String[] args) {
 		Man.say("I love java a lot.");
 		//Man.tell(""); // instance변수는 바로 call이 불가

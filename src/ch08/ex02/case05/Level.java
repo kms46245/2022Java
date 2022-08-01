@@ -4,6 +4,7 @@ public enum Level {
 		GOLD(3,null), SILVER(2,GOLD), COPPER(1,SILVER);
 	
 	private final int value;
+	@SuppressWarnings("unused")
 	private final Level next;
 	
 	private Level(int value , Level next) {

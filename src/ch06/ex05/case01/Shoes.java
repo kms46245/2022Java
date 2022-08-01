@@ -1,6 +1,7 @@
 package ch06.ex05.case01;
 
 public class Shoes extends Product{
+	@SuppressWarnings("unused")
 	private int price;			// member variable이 부모자식간에 같은경우
 	
 	public Shoes(int price) {

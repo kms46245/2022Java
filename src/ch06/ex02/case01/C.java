@@ -1,6 +1,7 @@
 package ch06.ex02.case01;
 
 public class C extends A{	// A를 상속받은 C
+	@SuppressWarnings("unused")
 	public void test() {
 		int x = 0;
 		

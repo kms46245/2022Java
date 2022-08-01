@@ -1,6 +1,7 @@
 package ch07.ex06.case02;
 
 public class Main {
+	@SuppressWarnings("static-access")
 	public static void main(String[] args) {
 		Life alien1 = new Alien();
 		Alien alien2 = new Alien();

@@ -1,7 +1,9 @@
 package ch05.ex09.case01;
 
 public class Init {
+	@SuppressWarnings("unused")
 	private static int s;
+	@SuppressWarnings("unused")
 	private int i;
 		
 	static {

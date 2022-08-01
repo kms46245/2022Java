@@ -3,6 +3,7 @@ package ch04.home.ex02;
 import java.util.Scanner;
 
 public class H03Kawibawibo {
+	@SuppressWarnings("resource")
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 		int playerChoice = 0;

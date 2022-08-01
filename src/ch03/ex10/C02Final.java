@@ -1,6 +1,7 @@
 package ch03.ex10;
 
 public class C02Final {
+	@SuppressWarnings("unused")
 	public static void main(String[] args) {
 		final int MAX = 3;		// raw data
 		

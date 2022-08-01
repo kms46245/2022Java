@@ -1,6 +1,7 @@
 package ch02.ex01;
 
 public class C01Variable {
+	@SuppressWarnings("unused")
 	public static void main(String[] args) {
 		boolean bl = false;
 		bl = true;

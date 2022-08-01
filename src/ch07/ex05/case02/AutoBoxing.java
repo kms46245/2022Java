@@ -1,6 +1,7 @@
 package ch07.ex05.case02;
 
 public class AutoBoxing {
+	@SuppressWarnings({ "unused", "removal" })
 	public static void main(String[] args) {
 		int a1 = 1;
 		Integer a2 = new Integer(1);

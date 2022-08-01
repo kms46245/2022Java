@@ -1,6 +1,7 @@
 package ch06.ex02.case01;
 
 public class B {
+	@SuppressWarnings("unused")
 	public void test() {
 		A a = new A();
 		

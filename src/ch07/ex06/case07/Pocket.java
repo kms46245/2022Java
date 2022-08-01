@@ -2,6 +2,7 @@ package ch07.ex06.case07;
 
 import java.util.List;
 
+@SuppressWarnings({ "removal", "unused" })
 public class Pocket {
 	{
 		int i = 1 * 2;

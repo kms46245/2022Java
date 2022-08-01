@@ -1,6 +1,7 @@
 package ch03.ex08;
 
 public class Logical {
+	@SuppressWarnings("unused")
 	public static void main(String[] args) {
 		boolean b = false;
 		

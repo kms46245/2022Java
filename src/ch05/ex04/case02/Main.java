@@ -1,6 +1,7 @@
 package ch05.ex04.case02;
 
 public class Main {
+	@SuppressWarnings("static-access")
 	public static void main(String[] args) {
 		Player.teamName = "tigers";
 		

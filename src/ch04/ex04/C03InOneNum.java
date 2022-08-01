@@ -3,6 +3,7 @@ package ch04.ex04;
 import java.util.Scanner;
 
 public class C03InOneNum {
+	@SuppressWarnings("resource")
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 		

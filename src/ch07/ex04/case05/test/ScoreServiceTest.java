@@ -1,10 +1,10 @@
 package ch07.ex04.case05.test;
 
 import ch07.ex04.case05.domain.Score;
-import ch07.ex04.case05.service.ScoreService;
 import ch07.ex04.case05.service.ScoreServiceImpl;
 
 public class ScoreServiceTest {
+	@SuppressWarnings("unused")
 	public static void main(String[] args) {
 		ScoreServiceImpl scoreService = new ScoreServiceImpl();
 		

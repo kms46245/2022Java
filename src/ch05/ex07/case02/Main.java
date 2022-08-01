@@ -1,6 +1,7 @@
 package ch05.ex07.case02;
 
 public class Main {
+	@SuppressWarnings("unused")
 	public static void main(String[] args) {
 		System.out.println("Stack.main() Ω√¿€.");
 		int a = 0;

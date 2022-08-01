@@ -4,6 +4,7 @@ import java.time.LocalDate;
 import java.util.Scanner;
 
 public class Reservation {
+	@SuppressWarnings("resource")
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 		int year = 0;

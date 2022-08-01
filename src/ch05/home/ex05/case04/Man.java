@@ -3,8 +3,11 @@ package ch05.home.ex05.case04;
 import java.time.LocalDate;
 
 public class Man {
+	@SuppressWarnings("unused")
 	private String name;
+	@SuppressWarnings("unused")
 	private int age;
+	@SuppressWarnings("unused")
 	private LocalDate birthDate;
 	
 	public void sing() {}

@@ -1,6 +1,7 @@
 package ch05.home.ex05.case06;
 
 public class User {
+	@SuppressWarnings("unused")
 	private String name;
 	private Phone phone;
 	

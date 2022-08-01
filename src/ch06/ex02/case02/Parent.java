@@ -5,6 +5,7 @@ public class Parent {
 	private String name;
 	private int money;
 
+	@SuppressWarnings("unused")
 	private String getRegNum() {
 		return regNum;
 	}

@@ -1,6 +1,7 @@
 package ch05.ex01.case03;
 
 public class Main {
+	@SuppressWarnings("unused")
 	public static void main(String[] args) {
 		User user1 = new User();
 		User user2 = new User();

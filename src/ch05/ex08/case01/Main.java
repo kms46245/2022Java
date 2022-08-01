@@ -1,6 +1,7 @@
 package ch05.ex08.case01;
 
 public class Main {
+	@SuppressWarnings("unused")
 	public static void main(String[] args) {
 		Baby baby = new Baby();
 		// 객체를 만들때(new) 불러오는 것이 바로 생성자다.

@@ -3,6 +3,7 @@ package ch02.home.ex03;
 import java.util.Scanner;
 
 public class Unicode {
+	@SuppressWarnings("resource")
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 		

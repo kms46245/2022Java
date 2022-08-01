@@ -3,6 +3,7 @@ package ch04.ex01;
 import java.util.Scanner;
 
 public class C07Present {
+	@SuppressWarnings("resource")
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 		int mainChoice = 0;

@@ -1,6 +1,7 @@
 package ch07.ex06.case04;
 
 public class Main {
+	@SuppressWarnings("unused")
 	public static void main(String[] args) {
 		Bowl<Integer> bowl1 = new Bowl<>();
 		Bowl<String> bowl2 = new Bowl<>();

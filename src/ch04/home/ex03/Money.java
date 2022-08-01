@@ -1,7 +1,5 @@
 package ch04.home.ex03;
 
-import java.util.Scanner;
-
 public class Money {
 	public static void main(String[] args) {
 		/*

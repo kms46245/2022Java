@@ -3,6 +3,7 @@ package ch04.home.ex02;
 import java.util.Scanner;
 
 public class H02Season {
+	@SuppressWarnings("resource")
 	public static void main(String[] args) {
 		int month = 0;
 		String season = "";

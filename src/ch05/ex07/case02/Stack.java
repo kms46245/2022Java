@@ -1,6 +1,7 @@
 package ch05.ex07.case02;
 
 public class Stack {
+	@SuppressWarnings("unused")
 	public static void first() {
 		System.out.println("Stack.first() 시작.");
 		int a = 0;
@@ -8,6 +9,7 @@ public class Stack {
 		System.out.println("Stack.first() 끝.");
 	}
 	
+	@SuppressWarnings("unused")
 	public static void second() {
 		System.out.println("Stack.Second() 시작.");
 		int a = 0;

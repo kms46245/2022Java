@@ -23,6 +23,7 @@ public class C06Throws {
 			this.third();
 		}
 		
+		@SuppressWarnings("unused")
 		public void third() {
 			int i = 3 / 0;
 		}

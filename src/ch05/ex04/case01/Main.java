@@ -1,6 +1,7 @@
 package ch05.ex04.case01;
 
 public class Main {
+	@SuppressWarnings("static-access")
 	public static void main(String[] args) {
 		System.out.printf("%d, %d", Card.width,Card.height);
 		//객체를 선언하지 않더라도 call이 된다.

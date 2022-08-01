@@ -3,6 +3,7 @@ package ch02.ex01;
 import java.util.Scanner;		// 기본 패키지에 보관된 기능이 아니므로 추가 (ctrl + shift + o)
 
 public class C03Input {
+	@SuppressWarnings("resource")
 	public static void main(String[] args)	{
 		Scanner sc = new Scanner(System.in);
 		/*System.out.print("문자열을 입력하세요.\n>");

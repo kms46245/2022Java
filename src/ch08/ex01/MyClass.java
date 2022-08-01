@@ -12,6 +12,7 @@ public class MyClass {
 		
 	}
 	
+	@SuppressWarnings("unused")
 	@Method
 	public void play(@Param String name, @Param int age ) {
 			@Local int i = 0;

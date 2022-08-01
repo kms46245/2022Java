@@ -1,6 +1,7 @@
 package ch02.ex01;
 
 public class C05Scope {
+	@SuppressWarnings("unused")
 	public static void main(String[] args) {
 		int i = 0;
 		
